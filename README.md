@@ -7,7 +7,7 @@ Cloud-Hosted Services", data was collected from a combination of honeypots, netw
 Data source: https://scans.io/study/cloud_watching
 
 Objective
-This project aims to analyze cloud network traffic using unsupervised machine learning techniques to detect anomalies that may indicate cyber threats. By leveraging data from honeypots, network telescopes, and educational networks, we seek to understand how different cloud environments are targeted by attackers.
+This project aims to analyze cloud network traffic using unsupervised machine learning techniques to detect anomalies that may indicate cyber threats.
 
 Methodology
 1.Preprocessing
