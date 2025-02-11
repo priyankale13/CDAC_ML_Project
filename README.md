@@ -21,7 +21,7 @@ Methodology
 	-Isolation Forest for detecting outliers based on statistical behavior.
 
 3.Evaluation 
-	-Use silhouette, WCSS scores to assess model performance.
+	-Use silhouette assess model performance.
 
 Concluding remark 
 The results of this study can contribute to proactive threat detection, enabling cloud providers and security teams to mitigate risks before they escalate.
